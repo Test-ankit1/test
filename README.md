@@ -18,4 +18,7 @@
               </a>
             </div>
           </div>
+<div>
 <img src="https://beta.aviyel.com/api/rewards/v1/reward/446/leaderboard.svg" alt="Test-ankit1 Leaderboard" />
+            
+</div>
